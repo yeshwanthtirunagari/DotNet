@@ -42,8 +42,7 @@ namespace ClassesAndObjects.Math
                     if (k == 2)
                     {
                     return true;
-                    }
-                
+                    }                
                 }
             return false;
         }

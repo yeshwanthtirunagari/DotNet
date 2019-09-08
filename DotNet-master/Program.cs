@@ -8,6 +8,7 @@ using ClassesAndObjects.Exercises;
 using ClassesAndObjects.Concepts;
 using ClassesAndObjects.Math;
 using ClassesAndObjects.UdemyClasses;
+using ClassesAndObjects.LeetCode;
 
 namespace ClassesAndObjects
 {
@@ -22,14 +23,86 @@ namespace ClassesAndObjects
     {       
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing my new XPS laptop");
+            myStringBuilder66 myS = new myStringBuilder66();
+            //  myS.mySBuilder();
+
+            PascalCase68 PC = new PascalCase68();
+
+            PC.PascalCase();
+
+            //Class59.DateTime1();
+            //var datetime = new DateTime();
+           
+
+
+           // randomProgram r = new randomProgram();
+           // r.PrimeNumber();
+
+
+
+           // Console.WriteLine("Testing my new XPS laptop");
+           // RandomPracticing RP = new RandomPracticing();
+           // Lists ls = new Lists();
+            // ls.Exercise5();
+
+            // RP.threeNumbers();
+
+
+            //String builder
+
+            //  StringBuilder newString = new StringBuilder("Hello");
+            //newString.Append(" , ");
+
+       
+
+
+
+            //    string delimeter = ",";
+            //    List<string> items = new List<string>() { "foo", "boo", "john", "doe" };
+
+
+            //string str = "null";
+
+            //foreach (var item in items)
+            //{
+            //    str += item.ToString();
+            //    str += delimeter;
+
+            //}
+
+            //Console.WriteLine(str);
+
+
+            // StringBuilder userString = new StringBuilder("C#");
+
+            //userString.Append(" tutorials");
+            //            userString.Append(" are");
+            //          userString.Append(" here.");
+
+            //Console.WriteLine(userString);
+
+
+
+
+            // Console.WriteLine("String after converting to UpperCase is:  " + RP.ConvertToUpperCase());
+
+            //   Console.WriteLine("The reversed name of the entered string is:" +RP.reverseName());
+
+            // Console.WriteLine("The sum of all numbers in the list is: " +RP.uniqueNumbers());
+
+            // Console.WriteLine("Following are the unique numbers from the list:");
+            // RP.printUniqueNumbers();
+
+            //   RP.smallestThree();
+            // Class1 cs = new Class1();
+
             //Palindrome.palindrome();
             //Class49 C49 = new Class49();
             //ArraysClass AR = new ArraysClass();
             //AR.ArraysMethod();
-           // C49.RandomNumbers();
+            // C49.RandomNumbers();
             //Console.WriteLine(C49.DivisibleByThree());
-           //Console.WriteLine("The sum of previously entered numbers is: " + Class49.SumOfAllEnteredNumbers());
+            //Console.WriteLine("The sum of previously entered numbers is: " + Class49.SumOfAllEnteredNumbers());
             //Console.WriteLine(C49.FactorialOfNumber());
             // Console.WriteLine(C49.PrintLargest());
 
@@ -258,7 +331,7 @@ namespace ClassesAndObjects
             //    LastName = "Tirunagari"
             //};
 
-            //Introduce I1 = new Introduce();
+            // Introduce I1 = new Introduce();
             //I1.FirstName = "Yeshwanth";
             //I1.LastName = "Tirunagari";
 

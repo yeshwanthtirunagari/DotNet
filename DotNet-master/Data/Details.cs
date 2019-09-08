@@ -8,8 +8,8 @@ namespace ClassesAndObjects
 {
     class Details
     {
-        public int ID;
-        public string age;
+        public int ID { get; set; }
+        public string age {get; set;}
 
         public void CustomerDetails()
         {
