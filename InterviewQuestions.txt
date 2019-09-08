@@ -1,0 +1,5 @@
+1) What are partial classes
+2) What is LINQ and how to implement LINQ in sharepoint
+3) What is the word static and can we implement static members in non-static functions
+4) What are stored procedures and how to improve the performance of a stored procedure
+5) How to find duplicate values in two columns of a table
